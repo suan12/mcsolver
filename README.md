@@ -1,9 +1,11 @@
 # mcsolver
 A user friendly tools using Monte Carlo simulations for estimation of Curie temperature
 
-Original contributor： Dr. Liang Liu* 1.Shenzheng University 2.Shandong University
+Original version author： Dr. Liang Liu* 1.Shenzheng University 2.Shandong University
 Email: liangliu@mail.sdu.edu.cn
 
+You can download the packed .exe (only tested in Windows 10 platform) from the following link. Wish it can find something helpful for you. And if it was used for publication, please cite:
+[1] Magnetic switches via electric field in BN nanoribbons. Applied Surface Science 480(2019)
 
 网盘下载地址：
 链接：https://pan.baidu.com/s/1EaDqOOdB7AP9WXrwEIEaxQ 
