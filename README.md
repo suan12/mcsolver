@@ -1,7 +1,7 @@
 # mcsolver
 A user friendly tools using Monte Carlo simulations for estimation of Curie temperature
 
-Original version author： Dr. Liang Liu* 1.Shenzheng University 2.Shandong University
+Original version contributor： Dr. Liang Liu* 1.Shenzheng University 2.Shandong University
 Email: liangliu@mail.sdu.edu.cn
 
 You can download the packed .exe (only tested in Windows 10 platform) from the following link. Wish it can find something helpful for you. And if it was used for publication, please cite:
