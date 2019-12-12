@@ -1,9 +1,9 @@
 # mcsolver
 A user friendly tools using Monte Carlo simulations for estimation of Curie temperature
 
-本软件版权归属： 1.深圳大学，机电与控制工程学院，2.山东大学 物理学院
-本软件作者       ： 刘亮 博士 1.深圳大学，机电与控制工程学院，2.山东大学 物理学院
-若有使用中的问题或报错，请发邮件至：liangliu@mail.sdu.edu.cn
+Original contributor： Dr. Liang Liu* 1.Shenzheng University 2.Shandong University
+Email: liangliu@mail.sdu.edu.cn
+
 
 网盘下载地址：
 链接：https://pan.baidu.com/s/1EaDqOOdB7AP9WXrwEIEaxQ 
